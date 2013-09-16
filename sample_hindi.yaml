@@ -1,0 +1,62 @@
+name: sample_hindi_book.pdf
+
+fonts:
+    - name: Devanagri
+      file: /Library/Fonts/DevanagariMT.ttf
+
+pages:
+    - caption:
+        text: १ हाथी
+        font: Devanagri
+      image:
+        url: http://openclipart.org/detail/7505/elephant-by-johnny_automatic
+        number: 1
+
+    - caption:
+        text: २ भालू
+        font: Devanagri
+      image:
+        url: http://openclipart.org/detail/603/young-bear-by-johnny_automatic
+        number: 2
+
+    - caption:
+        text: ३ बाघ
+        font: Devanagri
+      image:
+        url: http://openclipart.org/detail/171253/bengal-tiger-by-karthikeyan-171253
+        number: 3
+
+    - caption:
+        text: ४ गाय
+        font: Devanagri
+      image:
+        url: http://openclipart.org/detail/388/cow-by-johnny_automatic
+        number: 4
+
+    - caption:
+        text: ५ बतख
+        font: Devanagri
+      image:
+        url: http://openclipart.org/detail/35491/elder-duck-by-papapishu
+        number: 5
+
+    - caption:
+        text: ६ मछली
+        font: Devanagri
+      image:
+        url: http://openclipart.org/detail/127363/bojownik-by-bmichalik
+        number: 6
+
+    - caption:
+        text: ७ तितली
+        font: Devanagri
+      image:
+        url: http://openclipart.org/detail/26338/butterfly-1-by-papapishu
+        number: 7
+
+    - caption:
+        text: ८ उल्लू
+        font: Devanagri
+      image:
+        url: http://openclipart.org/detail/7523/great-owl-by-johnny_automatic
+        number: 8

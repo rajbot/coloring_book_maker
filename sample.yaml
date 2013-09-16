@@ -1,0 +1,58 @@
+name: sample_book.pdf
+
+
+fonts:
+    - name: Devanagri
+      file: /Library/Fonts/DevanagariMT.ttf
+
+pages:
+    - caption:
+        text: 1 elephant (small blue caption)
+        size: 24
+        color: [0.0, 0.0, 0.7]
+      image:
+        url: http://openclipart.org/detail/7505/elephant-by-johnny_automatic
+        number: 1
+
+    - caption:
+        text: 2 bears
+        size: 96
+      image:
+        url: http://openclipart.org/detail/603/young-bear-by-johnny_automatic
+        number: 2
+
+    - caption:
+        text: 3 tigers
+      image:
+        url: http://openclipart.org/detail/171253/bengal-tiger-by-karthikeyan-171253
+        number: 3
+
+    - caption:
+        text: 4 cows
+      image:
+        url: http://openclipart.org/detail/388/cow-by-johnny_automatic
+        number: 4
+
+    - caption:
+        text: 5 ducks
+      image:
+        url: http://openclipart.org/detail/35491/elder-duck-by-papapishu
+        number: 5
+
+    - caption:
+        text: 6 fish
+      image:
+        url: http://openclipart.org/detail/127363/bojownik-by-bmichalik
+        number: 6
+
+    - caption:
+        text: 7 butterflys
+      image:
+        url: http://openclipart.org/detail/26338/butterfly-1-by-papapishu
+        number: 7
+
+    - caption:
+        text: 8 owls
+      image:
+        url: http://openclipart.org/detail/7523/great-owl-by-johnny_automatic
+        number: 8
